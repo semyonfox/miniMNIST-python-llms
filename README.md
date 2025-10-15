@@ -37,7 +37,7 @@ pip install numpy
 ```
 3. Execute the program with Python 3.12:
 ```bash
-python main.py
+python main.py.old
 ```
 The script will train the neural network and output the accuracy and average loss for each training epoch.
 
