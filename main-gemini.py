@@ -10,7 +10,7 @@ OUTPUT_SIZE = 10
 
 # Training Hyperparameters
 LEARNING_RATE = 0.001
-EPOCHS = 25  # Fewer epochs needed with a better optimizer
+EPOCHS = 100  # Fewer epochs needed with a better optimizer
 BATCH_SIZE = 64  # Common batch size, power of 2
 
 # Adam Optimizer Parameters
